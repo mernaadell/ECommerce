@@ -1,0 +1,16 @@
+1.make a gaurd for admins ,admin only can register config -> auth and make model for admin
+ w a3dl fe redirectif auth 3shan lw m3mlthsh hygbli l login tani
+
+2.middleware-> authonticated elii ana 3mlah feh 3shan lw 7ad d5al mesh auth 
+y3ni mesh katab l pass w user hyrga3 tanii ll login lw 7awel yd5ol ay saf7a
+
+3.dlw2ty hst5dam l tinker 3shan a3mal admin 
+
+4. hytl3ly moshkla l model admin ano mesh b y extends l auth a5odha mn l user elii by deflt hwa w l use bta3o
+
+5.abda2 dlw2ty asht8al 3la l lang elii mwgoda fe l site 
+
+6.a3mal create l new langs l admin y7ot new lang w y3dal fehom
+
+7.a3ml helper fun w a7ot feha methods mmkn ast5dmha fe ay mkan bs lazam a7otha fe com[posr.json w a3ml composer dump-autoload
+]
